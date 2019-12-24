@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  test.cpp
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Task_4\Metro.h(10,16): error C2065: Line: необъявленный идентификатор
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Task_4\Metro.h(10,22): error C2059: синтаксическая ошибка: >
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Task_4\Metro.h(17,14): error C3646: findLine: неизвестный спецификатор переопределения
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Task_4\Metro.h(17,14): error C2059: синтаксическая ошибка: (
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Task_4\Metro.h(17,34): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Task_4\Metro.h(19,16): error C3646: findLine: неизвестный спецификатор переопределения
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Task_4\Metro.h(19,16): error C2059: синтаксическая ошибка: (
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Task_4\Metro.h(19,29): error C2238: непредвиденные лексемы перед ";"
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Task_4\Metro.h(22,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Task_4\Metro.h(22,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Task_4\Metro.h(22,18): error C2238: непредвиденные лексемы перед ";"
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Task_4\Metro.h(28,16): error C2065: Station: необъявленный идентификатор
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Task_4\Metro.h(28,25): error C2059: синтаксическая ошибка: >
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Task_4\Metro.h(36,22): error C3646: findStation: неизвестный спецификатор переопределения
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Task_4\Metro.h(36,22): error C2059: синтаксическая ошибка: (
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Task_4\Metro.h(36,35): error C2238: непредвиденные лексемы перед ";"
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Task_4\Metro.h(39,10): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Task_4\Metro.h(39,10): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Task_4\Metro.h(39,21): error C2238: непредвиденные лексемы перед ";"
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Test\test.cpp(6,37): error C2039: findLine: не является членом "Metro::System"
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Task_4\Metro.h(7): message : см. объявление "Metro::System"
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Test\test.cpp(6,18): error C2512: Metro::Line: нет подходящего конструктора по умолчанию
+C:\Users\Григорий\source\repos\Программы 3 сем\Task_4\Task_4\Metro.h(25,8): message : см. объявление "Metro::Line"
